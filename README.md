@@ -9,9 +9,8 @@
 ## 💻 Preview
 
 ![png1](github/display.png)
-![png3](github/error.png)
-![png2](github/added.png)
-![png4](github/details.png)
+![png2](github/error.png)
+![png3](github/details.png)
 
 ## :rocket: Technologies
 

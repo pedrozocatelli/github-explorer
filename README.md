@@ -6,11 +6,11 @@
 <br>
 
 
-## :camera: Preview
+## 💻 Preview
 
 ![png1](github/display.png)
-![png2](github/added.png)
 ![png3](github/error.png)
+![png2](github/added.png)
 ![png4](github/details.png)
 
 ## :rocket: Technologies
@@ -22,7 +22,6 @@ This app features the following techs:
 
 
 ## 💻 Project
-
 
 GitHub Explorer is an app developed with React + TypeScript, that uses the [GitHub API](https://docs.github.com/en/rest) to retrieve repositories and display their information.
 
